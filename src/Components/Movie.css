@@ -1,0 +1,16 @@
+h3:first-of-type {
+  text-transform: uppercase;
+  color: black;
+  font-weight: 600;
+}
+h3 {
+  color: rgb(72, 72, 72);
+  font-weight: 400;
+}
+h3:last-of-type {
+  font-size: 1em;
+  color: rgb(169, 169, 169);
+}
+article {
+  box-shadow: 0 10px 40px -14px rgba(0, 0, 0, 0.55);
+}
